@@ -64,4 +64,4 @@ Paginação: Implementar paginação para a listagem de categorias.
 🤝 Contribuições e Autor
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
-Autor: Moizes Ano: 2025
+Autor: **Autor:** Moizes **Ano:** 2025
